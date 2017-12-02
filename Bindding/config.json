@@ -1,0 +1,57 @@
+﻿{
+    "change_ip": 2,
+    "loop_count": 10,
+    "key_match_list": [
+        {
+            "Key": "百度竞价",
+            "Value": "baidu.com"
+        }
+    ],
+    "ipelf_info": {
+        "soft_path": "E:/Work/竞价/ipjl/ipjl.exe",
+        "username": "lzh32",
+        "password": "5237181",
+        "provice": "四川省",
+        "city": "成都市"
+    },
+    "adsl_info": {
+        "username": "用户名",
+        "password": "密码"
+    },
+    "sleep_seconds": {
+        "after_search": {
+            "min_ms": 1000,
+            "max_ms": 1000
+        },
+        "baidu_search": {
+            "min_ms": 1000,
+            "max_ms": 1000
+        },
+        "pop_up": {
+            "min_ms": 8000,
+            "max_ms": 16000
+        },
+        "recon_time": {
+            "min_ms": 60000,
+            "max_ms": 120000
+        }
+    },
+    "simulate_speed": {
+        "mouse_scroll": {
+            "min_ms": 1500,
+            "max_ms": 3000
+        },
+        "mouse_move_search_input": {
+            "min_ms": 2000,
+            "max_ms": 3000
+        },
+        "mouse_click_search_input": {
+            "min_ms": 800,
+            "max_ms": 1600
+        },
+        "keyboard_keywords_speed": {
+            "min_ms": 400,
+            "max_ms": 1000
+        }
+    }
+}

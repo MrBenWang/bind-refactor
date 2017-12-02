@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bindding", "Bindding\Bindding.csproj", "{9DECFFC7-6626-4E99-B2CF-E9A435051C24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegisterMachine", "RegisterMachine\RegisterMachine.csproj", "{9581D6CD-F8FC-45E7-82F4-14D9DBCB84F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallProcess", "CallProcess\CallProcess.csproj", "{44885820-B113-4686-B9A4-39A3985CBDD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DECFFC7-6626-4E99-B2CF-E9A435051C24}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{9DECFFC7-6626-4E99-B2CF-E9A435051C24}.Debug|Any CPU.Build.0 = Debug|x86
+		{9DECFFC7-6626-4E99-B2CF-E9A435051C24}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{9DECFFC7-6626-4E99-B2CF-E9A435051C24}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{9DECFFC7-6626-4E99-B2CF-E9A435051C24}.Debug|x86.ActiveCfg = Debug|x86
+		{9DECFFC7-6626-4E99-B2CF-E9A435051C24}.Debug|x86.Build.0 = Debug|x86
+		{9DECFFC7-6626-4E99-B2CF-E9A435051C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DECFFC7-6626-4E99-B2CF-E9A435051C24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DECFFC7-6626-4E99-B2CF-E9A435051C24}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{9DECFFC7-6626-4E99-B2CF-E9A435051C24}.Release|Mixed Platforms.Build.0 = Release|x86
+		{9DECFFC7-6626-4E99-B2CF-E9A435051C24}.Release|x86.ActiveCfg = Release|x86
+		{9DECFFC7-6626-4E99-B2CF-E9A435051C24}.Release|x86.Build.0 = Release|x86
+		{9581D6CD-F8FC-45E7-82F4-14D9DBCB84F3}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{9581D6CD-F8FC-45E7-82F4-14D9DBCB84F3}.Debug|Any CPU.Build.0 = Debug|x86
+		{9581D6CD-F8FC-45E7-82F4-14D9DBCB84F3}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{9581D6CD-F8FC-45E7-82F4-14D9DBCB84F3}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{9581D6CD-F8FC-45E7-82F4-14D9DBCB84F3}.Debug|x86.ActiveCfg = Debug|x86
+		{9581D6CD-F8FC-45E7-82F4-14D9DBCB84F3}.Debug|x86.Build.0 = Debug|x86
+		{9581D6CD-F8FC-45E7-82F4-14D9DBCB84F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9581D6CD-F8FC-45E7-82F4-14D9DBCB84F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9581D6CD-F8FC-45E7-82F4-14D9DBCB84F3}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{9581D6CD-F8FC-45E7-82F4-14D9DBCB84F3}.Release|Mixed Platforms.Build.0 = Release|x86
+		{9581D6CD-F8FC-45E7-82F4-14D9DBCB84F3}.Release|x86.ActiveCfg = Release|x86
+		{9581D6CD-F8FC-45E7-82F4-14D9DBCB84F3}.Release|x86.Build.0 = Release|x86
+		{44885820-B113-4686-B9A4-39A3985CBDD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44885820-B113-4686-B9A4-39A3985CBDD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44885820-B113-4686-B9A4-39A3985CBDD1}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{44885820-B113-4686-B9A4-39A3985CBDD1}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{44885820-B113-4686-B9A4-39A3985CBDD1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{44885820-B113-4686-B9A4-39A3985CBDD1}.Debug|x86.Build.0 = Debug|Any CPU
+		{44885820-B113-4686-B9A4-39A3985CBDD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44885820-B113-4686-B9A4-39A3985CBDD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44885820-B113-4686-B9A4-39A3985CBDD1}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{44885820-B113-4686-B9A4-39A3985CBDD1}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{44885820-B113-4686-B9A4-39A3985CBDD1}.Release|x86.ActiveCfg = Release|x86
+		{44885820-B113-4686-B9A4-39A3985CBDD1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
